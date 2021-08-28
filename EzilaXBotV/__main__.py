@@ -63,8 +63,8 @@ from EzilaXBotV.modules.helper_funcs.misc import paginate_modules
 from EzilaXBotV.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-👋 𝗛𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 @EzilaXBot
-𝗜'𝗺 𝗮 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 𝗴𝗿𝗼𝘂𝗽 𝗺𝗮𝗻𝗮𝗴𝗲𝗿 𝗯𝗼𝘁 𝗪𝗶𝘁𝗵 𝗖𝗼𝗼𝗹 𝗠𝗼𝗱𝘂𝗹𝗲𝘀. 𝗠𝗮𝗱𝗲 𝗯𝘆 ⚡️ @TeamEzilaX
+👋 𝗛𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 @Lisa_uwu_robot
+𝗜'𝗺 𝗮 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 𝗴𝗿𝗼𝘂𝗽 𝗺𝗮𝗻𝗮𝗴𝗲𝗿 𝗯𝗼𝘁 𝗪𝗶𝘁𝗵 𝗖𝗼𝗼𝗹 𝗠𝗼𝗱𝘂𝗹𝗲𝘀. 𝗠𝗮𝗱𝗲 𝗯𝘆 ⚡️ @Thenula66
 𝗛𝗶𝘁 /help 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗺𝘆 𝗹𝗶𝘀𝘁 𝗼𝗳 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 🙋‍♂️
  
 """
@@ -72,29 +72,29 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="𝙴𝚣𝚒𝚕𝚊𝚇 𝙽𝚎𝚠𝚜 🙋‍♂️", url="https://t.me/Ezila_Updates"
+            text="Lisa updates 🙋‍♂️", url="https://t.me/SDBOTs_infinity"
         ),
         InlineKeyboardButton(
-            text="𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙶𝚛𝚘𝚞𝚙 💬", url="https://t.me/Ezila_Support"
+            text="𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙶𝚛𝚘𝚞𝚙 💬", url="https://t.me/SDBOTz"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="𝚂𝚘𝚞𝚛𝚌𝚎 🗒", url="Github.com/Sadew451/EzilaXBot-V2"
+            text="𝚂𝚘𝚞𝚛𝚌𝚎 🗒", url="Github.com/Thenula63728292/EzilaX"
         ),
         InlineKeyboardButton(
-            text="𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝙷𝚎𝚕𝚙 ❓", url="http://t.me/EzilaXBot?start=help"
+            text="𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝙷𝚎𝚕𝚙 ❓", url="http://t.me/Lisa_uwu_robot?start=help"
         ),
     ],
     [
         InlineKeyboardButton(
             text="➕ 𝙰𝚍𝚍 𝙼𝚎 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙 ➕",
-            url="t.me/EzilaXBot?startgroup=true",
+            url="t.me/Lisa_uwu_robot?startgroup=true",
         ),
     ],
 ]
 
-EZILAX_IMG = "https://telegra.ph/file/48a1645cc447a2ac1dae0.png"
+EZILAX_IMG = "https://telegra.ph/file/6b2efed736c105bcbb4de.jpg"
 
 HELP_STRINGS = f"""
 *Main Commands :* [🤖]()
@@ -112,7 +112,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [Sadew Jayasekara](t.me/Darkridersslk)"""
+Support them  [Thenula svr](t.me/Thenula66)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
