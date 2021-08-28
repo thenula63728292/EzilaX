@@ -26,7 +26,7 @@
 
 # 🏃‍♂️ Easy Deploy 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sadew451/EzilaX.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thenula63728292/EzilaX.git)
 
 
 ### Self-hosting (For Devs) ⚔
