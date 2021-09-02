@@ -1,6 +1,6 @@
-<h1 align="center"><b>❤️ EzilaX v1  ❤️</b></h1>
+<h1 align="center"><b>❤️ ezila/lisa v1  ❤️</b></h1>
 
-## Unmaintained. The new repo of [@EzilaXBot](https://t.me/EzilaXBot) is Public. 
+## Unmaintained. The new repo of [@Lisa_uwu_robot](https://t.me/Lisa_uwu_robot) is Public. 
 
 (It is no longer based on this source code. The completely rewritten bot available now on telegram)
 
