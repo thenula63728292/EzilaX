@@ -66,3 +66,4 @@ opencv-python-headless
 Pillow
 envparse
 loguru
+python-barcode==0.13.1
